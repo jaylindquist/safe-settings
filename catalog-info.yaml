@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: safe-settings
+  annotations:
+    github.com/project-slug: jaylindquist/safe-settings
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
